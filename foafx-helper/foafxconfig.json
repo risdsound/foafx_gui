@@ -1,0 +1,62 @@
+{
+	"dryLevel" : 0.0,
+	"bitcrush" : 	{
+		"bitDepth" : 5,
+		"position" : 		{
+			"azimuth" : -44.0,
+			"elevation" : 0.0
+		}
+
+	}
+,
+	"distortion" : 	{
+		"inputGain" : 20.0,
+		"outputGain" : -10.0,
+		"position" : 		{
+			"azimuth" : -44.0,
+			"elevation" : 0.0
+		}
+
+	}
+,
+	"delay" : 	{
+		"delayTime" : 500.000999999999976,
+		"feedback" : 0.800199010312557,
+		"position" : 		{
+			"azimuth" : -44.0,
+			"elevation" : 0.0
+		}
+
+	}
+,
+	"flanger" : 	{
+		"rate" : 0.2,
+		"depth" : 3.5,
+		"feedback" : 0.399600005149841,
+		"position" : 		{
+			"azimuth" : -44.0,
+			"elevation" : 0.0
+		}
+
+	}
+,
+	"chorus" : 	{
+		"rate" : 0.5,
+		"depth" : 20.0,
+		"position" : 		{
+			"azimuth" : -44.0,
+			"elevation" : 0.0
+		}
+
+	}
+,
+	"gain" : 	{
+		"gainDecibels" : 0.0,
+		"position" : 		{
+			"azimuth" : -44.0,
+			"elevation" : 0.0
+		}
+
+	}
+
+}

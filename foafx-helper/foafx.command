@@ -1,0 +1,1 @@
+foafx gain -n sn3d -c ~/foafx-helper/foafxconfig.json input output 
