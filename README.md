@@ -6,6 +6,9 @@ foafx is a command line tool for applying spatially positioned audio effects to 
 
 foafx_gui is a Max patch for configuring and running foafx. 
 
+<img width="1066" alt="foafx_gui" src="https://user-images.githubusercontent.com/2341558/220534903-b39fd911-87e3-4af7-90fb-9ccaf88f5ac8.png">
+
+
 # Installation
 
 Move the "foafx-helper" folder to the top level of your home directory so that it can be located in Terminal at:
