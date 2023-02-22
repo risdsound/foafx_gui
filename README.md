@@ -58,7 +58,7 @@ Follow all the steps in order listed in the patch (1-4).
 3. Set options (choose the effect, normalization, and input file)
 4. Run the foafx process
 
-Please note, on a Mac when you run the foafx process the first time you will likely get message like, 
+Please note, on a Mac when you run the foafx process the first time you will likely get a message like, 
 
 > foafx.command” cannot be opened because it is from an unidentified developer.
 macOS cannot verify that this app is free from malware. ...
